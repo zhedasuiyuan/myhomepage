@@ -32,10 +32,5 @@ weight = 5
 +++
 
 # Biography
-Zhiming Hu is now a postdoctoral fellow in the Department of Electrical and Computer Engineering, University of
-Toronto. Before he joined University of Toronto, he was a research scientist in the Institute of High Performance
-Computing, A*STAR, Singapore. Prior to that, he obtained his Doctor’s degree in the School of Computer
-Science and Engineering, Nanyang Technological University, Singapore and his bachelor’s degree in computer
-science from Zhejiang University, Hangzhou, China. His research interests are broadly in computer
-networking and distributed systems.
+Zhiming Hu is now a postdoctoral fellow working with [Prof. Baochun Li](http://iqua.ece.toronto.edu/bli/) in the Department of Electrical and Computer Engineering, University of Toronto. Before he joined University of Toronto, he was a research scientist in the Institute of High Performance Computing, A*STAR, Singapore. Prior to that, he obtained his Doctor’s degree in the School of Computer Science and Engineering, Nanyang Technological University, Singapore where his advisor was [Prof. Jun Luo](http://www.ntu.edu.sg/home/junluo/). His research interests are broadly in computer networking and distributed systems.
 
