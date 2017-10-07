@@ -6,7 +6,7 @@ date = "2016-04-27"
 title = "Big Data Processing"
 
 # Project summary to display on homepage.
-summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary = "We work on imporving the performance of big data processing systems like Hadoop and Spark."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "bubbles.jpg"

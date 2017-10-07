@@ -23,7 +23,6 @@ Reviewer for:
 - IEEE Globecom 2016, 2017
 - Springer Multimedia System
 - Springer Journal of Network and Systems Management
-- China Communications
 
 Technical Program Committee
 
